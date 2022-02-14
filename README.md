@@ -43,16 +43,16 @@
 
 <p>Purchase and rental price<p/>
 
-<p align="center"><img src="https://github.com/evianap/interactive_housing_visualizations/blob/main/Images/Purchase&Rental_Price.png" alt="MC1A"><p/>
+<p align="center"><img src="https://github.com/evianap/interactive_housing_visualizations/blob/main/Images/Purchase&Rental_Price.png" alt="Purch Price"><p/>
 
 <p>Housing Units per Year<p/>
 
-<p align="center"><img src="https://github.com/evianap/interactive_housing_visualizations/blob/main/Images/Housin_Units_by_year_.png" alt="Housing Units"><p/>
+<p align="center"><img src="https://github.com/evianap/interactive_housing_visualizations/blob/main/Images/Housin_Units_by_year.png" alt="Housing Units"><p/>
 
 <p>Presenting sale price per square foot<p/>
 
 
-<p align="center"><img src="https://github.com/evianap/interactive_housing_visualizations/blob/main/Images/Sale_Price_psqf.png" alt="Sale Price per SQFT"><p/>
+<p align="center"><img src="https://github.com/evianap/interactive_housing_visualizations/blob/main/Images/Sale_Price_psqft.png" alt="Sale Price per SQFT"><p/>
 
 
 <p>Opening up data at the neighborhood level<p/>
